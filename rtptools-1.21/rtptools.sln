@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtpdump", "rtpdump.vcxproj", "{245FA5E8-A02F-47BA-8F2E-D83DCDECEBFA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtpplay", "rtpplay.vcxproj", "{5987E982-5091-4DAA-86EB-1F4634B9E559}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtpsend", "rtpsend.vcxproj", "{53E8F840-597A-4AC6-AC1F-E658CD756929}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtptrans", "rtptrans.vcxproj", "{6589DC89-92CE-4909-8E21-9223B3AB7F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{245FA5E8-A02F-47BA-8F2E-D83DCDECEBFA}.Debug|x86.ActiveCfg = Debug|Win32
+		{245FA5E8-A02F-47BA-8F2E-D83DCDECEBFA}.Debug|x86.Build.0 = Debug|Win32
+		{245FA5E8-A02F-47BA-8F2E-D83DCDECEBFA}.Template|x86.ActiveCfg = Debug|Win32
+		{245FA5E8-A02F-47BA-8F2E-D83DCDECEBFA}.Template|x86.Build.0 = Debug|Win32
+		{5987E982-5091-4DAA-86EB-1F4634B9E559}.Debug|x86.ActiveCfg = Debug|Win32
+		{5987E982-5091-4DAA-86EB-1F4634B9E559}.Debug|x86.Build.0 = Debug|Win32
+		{5987E982-5091-4DAA-86EB-1F4634B9E559}.Template|x86.ActiveCfg = Template|Win32
+		{5987E982-5091-4DAA-86EB-1F4634B9E559}.Template|x86.Build.0 = Template|Win32
+		{53E8F840-597A-4AC6-AC1F-E658CD756929}.Debug|x86.ActiveCfg = Debug|Win32
+		{53E8F840-597A-4AC6-AC1F-E658CD756929}.Debug|x86.Build.0 = Debug|Win32
+		{53E8F840-597A-4AC6-AC1F-E658CD756929}.Template|x86.ActiveCfg = Template|Win32
+		{53E8F840-597A-4AC6-AC1F-E658CD756929}.Template|x86.Build.0 = Template|Win32
+		{6589DC89-92CE-4909-8E21-9223B3AB7F8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6589DC89-92CE-4909-8E21-9223B3AB7F8F}.Debug|x86.Build.0 = Debug|Win32
+		{6589DC89-92CE-4909-8E21-9223B3AB7F8F}.Template|x86.ActiveCfg = Template|Win32
+		{6589DC89-92CE-4909-8E21-9223B3AB7F8F}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

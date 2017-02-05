@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (.\Debug\) contains files shared from another project (rtpplay.vcxproj, rtpsend.vcxproj, rtptrans.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  rtpdump.c
+  rd.c
+  yplib.c
+  utilNT.c
+  gettimeofday.c
+  getopt.c
+  hpt.c
+  host2ip.c
+  Generating Code...
+host2ip.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  rtpdump.vcxproj -> C:\repo\rtptools\rtptools-1.21\.\Debug\rtpdump.exe
+  rtpdump.vcxproj -> .\Debug\rtpdump.pdb (Full PDB)
